@@ -1,3 +1,2 @@
 # mospf_lab
-network course project of mospf
-sdf xixigit 
+It is a network course project on mmOSPF in the 1st year of master.
