@@ -1,2 +1,2 @@
 # mospf_lab
-It is a network course project on mmOSPF in the 1st year of master.
+It is a network course project on mOSPF in the 1st year of master.
